@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darinel E.G.</h1>
 <h3 align="center">passionate on being a full stack developer</h3>
 
-<p>darinelesguillen> </p>
 
 - 📫 How to reach me **darinel.escobar@outlook.com**
 
