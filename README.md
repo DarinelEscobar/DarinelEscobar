@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DarinelGuillen.DarinelGuillen&left_color=0D1117&right_color=58A6FF">
+
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&weight=600&size=25&pause=1000&color=A5B4FC&background=0A0E1822&width=600&lines=Hey+there!+I'm+Darinel;Focused+on+becoming+a+full+stack+dev.;_"Turning+coffee+into+code+and+ideas+into+reality."_)](https://git.io/typing-svg)
 
