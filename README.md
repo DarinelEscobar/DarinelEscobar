@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DarinelGuillen.DarinelGuillen&left_color=0D1117&right_color=58A6FF">
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=600&size=25&pause=1000&color=5DCFEE&background=0D111700&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Darinel;Focused+on+becoming+a+full+stack+dev.;_Turning+coffee+into+code+and+ideas+into+reality._" alt="Typing SVG"/>
+</h1>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&weight=600&size=25&pause=1000&color=A5B4FC&background=0A0E1822&width=600&lines=Hey+there!+I'm+Darinel;Focused+on+becoming+a+full+stack+dev.;_"Turning+coffee+into+code+and+ideas+into+reality."_)](https://git.io/typing-svg)
 
 ### Contact
 
@@ -10,6 +12,7 @@
   <a href="mailto:darinel.escobar@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/529613021060" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
 
 
 
