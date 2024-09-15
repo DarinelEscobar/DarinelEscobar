@@ -5,13 +5,7 @@
 </h1>
 
 
-### Contact
 
-<div> 
-  <a href="https://www.linkedin.com/in/darinel-escobar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:darinel.escobar@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/529613021060" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
 
 
 <div align="center">
@@ -22,15 +16,38 @@
 </div>
 
 
-# My GitHub Stats
+<h2 align="center"> My GitHub Stats </h2>
 
-<table>
+
+<table align="center" style="width: 100%; border-spacing: 0 20px;">
   <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=DarinelGuillen&show_icons=true&theme=react" alt="GitHub Stats" style="width: 100%; height: auto; min-height: 200px;" />
+    <td style="width: 50%; padding: 0 10px; vertical-align: top;">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=DarinelGuillen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" style="width: 100%; max-width: 390px; height: auto; min-height: 200px;" />
+      </div>
     </td>
-    <td style="width: 50%; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarinelGuillen&layout=compact&theme=react" alt="Top Languages" style="width: 100%; height: auto; min-height: 200px;" />
+    <td style="width: 50%; padding: 0 10px; vertical-align: top;">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarinelGuillen&layout=compact&theme=react" alt="Top Languages" style="width: 100%; max-width: 390px; height: auto; min-height: 200px;" />
+      </div>
     </td>
   </tr>
 </table>
+
+
+
+
+<h2 align="center">🏆 Achievements 🏆</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DarinelGuillen&theme=nord&no-frame=true&column=-1&no-bg=true" alt="trophy stats" />
+</div>
+
+
+### Contact
+
+<div> 
+  <a href="https://www.linkedin.com/in/darinel-escobar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:darinel.escobar@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/529613021060" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
