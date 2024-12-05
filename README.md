@@ -52,10 +52,23 @@
   </a>
 </div>
 
+
 ### Contact
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/darinel-escobar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:darinel.escobar@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/529613021060" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/darinel-escobar" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!-- Outlook -->
+  <a href="mailto:darinel.escobar@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/529613021060" target="_blank" title="Only WhatsApp messages, no calls please">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </div>
+
