@@ -38,9 +38,18 @@
 ### Badges
 
 <div align="center">
-  <img src="https://images.credly.com/size/220x220/images/dbcfcfd3-7d99-4877-b777-1489e1edf8d5/image.png" alt="AWS Academy Cloud Security Foundations" style="margin: 10px; width: 150px;">
-  <img src="https://images.credly.com/size/220x220/images/920866d4-e314-469b-87d3-b4da8c069864/image.png" alt="AWS Academy Cloud Developing" style="margin: 10px; width: 150px;">
-  <img src="https://images.credly.com/size/220x220/images/657cf76c-0b10-40ba-a55d-62f35c764ac2/image.png" alt="AWS Academy Introduction to Cloud Semester 1" style="margin: 10px; width: 150px;">
+  <a href="https://www.credly.com/badges/17c50411-0cbe-4586-bd34-00c130c92e22/public_url" target="_blank">
+    <img src="badge/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Academy Cloud Foundations" style="margin: 10px; width: 150px;" loading="lazy">
+  </a>
+  <a href="https://www.credly.com/badges/920866d4-e314-469b-87d3-b4da8c069864/public_url" target="_blank">
+    <img src="badge/aws-academy-graduate-aws-academy-cloud-developing.png" alt="AWS Academy Cloud Developing" style="margin: 10px; width: 150px;" loading="lazy">
+  </a>
+  <a href="https://www.credly.com/badges/dbcfcfd3-7d99-4877-b777-1489e1edf8d5/public_url" target="_blank">
+    <img src="badge/aws-academy-graduate-aws-academy-cloud-security-foundations.png" alt="AWS Academy Cloud Security Foundations" style="margin: 10px; width: 150px;" loading="lazy">
+  </a>
+  <a href="https://www.credly.com/badges/657cf76c-0b10-40ba-a55d-62f35c764ac2/public_url" target="_blank">
+    <img src="badge/aws-academy-graduate-aws-academy-introduction-to-cloud-semester-1.png" alt="AWS Academy Introduction to Cloud Semester 1" style="margin: 10px; width: 150px;" loading="lazy">
+  </a>
 </div>
 
 ### Contact
