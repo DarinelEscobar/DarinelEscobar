@@ -12,14 +12,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Create Dist Directory
-        run: mkdir -p dist
-
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: "DarinelGuillen"
           outputs: dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push to Output Branch
         uses: EndBug/add-and-commit@v9
