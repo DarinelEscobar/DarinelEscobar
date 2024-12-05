@@ -35,7 +35,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DarinelGuillen&theme=nord&no-frame=true&column=-1&no-bg=true" alt="trophy stats" />
 </div> -->
 
-### Badges
 
 <div align="center">
   <a href="https://www.credly.com/badges/17c50411-0cbe-4586-bd34-00c130c92e22/public_url" target="_blank">
