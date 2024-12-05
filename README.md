@@ -11,7 +11,8 @@
 <div align="center">
   <h2>My Contributions</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DarinelGuillen/DarinelGuillen/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DarinelGuillen/DarinelGuillen/main/dist/github-contribution-grid-snake.svg" />
+  
   <br/><br/><br/>
 </div>
 
@@ -37,13 +38,6 @@
 
 
 
-<h2 align="center">🏆 Achievements 🏆</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarinelGuillen&theme=nord&no-frame=true&column=-1&no-bg=true" alt="trophy stats" />
-</div>
-
-
 ### Contact
 
 <div> 
@@ -51,3 +45,5 @@
   <a href="mailto:darinel.escobar@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/529613021060" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
+
