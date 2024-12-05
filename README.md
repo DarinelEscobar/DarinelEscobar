@@ -12,9 +12,9 @@
   <h2>My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DarinelGuillen/DarinelGuillen/main/dist/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
+
 
 
 <h2 align="center"> My GitHub Stats </h2>
@@ -35,6 +35,24 @@
   </tr>
 </table>
 
+
+<!-- Achievements activate when i do have more unloke arcivements -->
+<!-- <h2 align="center">🏆 Achievements 🏆</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DarinelGuillen&theme=nord&no-frame=true&column=-1&no-bg=true" alt="trophy stats" />
+</div> -->
+
+ bagges
+
+<!-- AWS Academy Graduate - AWS Academy Cloud Security Foundations -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dbcfcfd3-7d99-4877-b777-1489e1edf8d5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!-- AWS Academy Graduate - AWS Academy Cloud Developing -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="920866d4-e314-469b-87d3-b4da8c069864" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!-- AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1 -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="657cf76c-0b10-40ba-a55d-62f35c764ac2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!-- AWS Academy Graduate - AWS Academy Cloud Security Foundations -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dbcfcfd3-7d99-4877-b777-1489e1edf8d5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
