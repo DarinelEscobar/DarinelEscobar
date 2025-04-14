@@ -16,12 +16,12 @@
   <tr>
     <td style="width: 50%; padding: 0 10px; vertical-align: top;">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=DarinelGuillen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" style="width: 100%; max-width: 390px; height: auto; min-height: 200px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DarinelEscobar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" style="width: 100%; max-width: 390px; height: auto; min-height: 200px;" />
       </div>
     </td>
     <td style="width: 50%; padding: 0 10px; vertical-align: top;">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarinelGuillen&layout=compact&theme=react" alt="Top Languages" style="width: 100%; max-width: 390px; height: auto; min-height: 200px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarinelEscobar&layout=compact&theme=react" alt="Top Languages" style="width: 100%; max-width: 390px; height: auto; min-height: 200px;" />
       </div>
     </td>
   </tr>
